@@ -23,6 +23,8 @@ div#container{
   height: 150px;
   margin-right: auto;
   margin-left: auto;
+  margin-top:auto;
+  margin-bottom: auto;
   font-family: Helvetica;
   color: black;
   position: relative;
@@ -35,8 +37,8 @@ div#container{
   width: 70px;
   height: 20px;
   text-align: center;
-  top:0;
-  right:0;
+  margin-left: auto;
+  margin-top:auto;
   margin-left: auto;
 }
 #t2{
@@ -46,8 +48,8 @@ div#container{
   width: 70px;
   height: 20px;
   text-align: center;
-  top:0;
-  right:0;
+  margin-left: auto;
+  margin-top:auto;
   margin-left: auto;
 }
 #t3{
@@ -57,8 +59,8 @@ div#container{
   width: 70px;
   height: 20px;
   text-align: center;
-  top:0;
-  right:0;
+  margin-left: auto;
+  margin-top:auto;
   margin-left: auto;
 }
 /* Simple Responsive Framework. */
