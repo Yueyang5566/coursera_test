@@ -1,0 +1,52 @@
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1{
+	color: #557c3e;
+	font-size: 1.5em;
+	text-transform:uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+	line-height: 0.75;
+}
+
+.container{
+	margin-left: 0;
+	box-sizing:border-box;
+}
+
+div#container{
+  background-color: #00FFFF;
+  position:relative;
+  border:1px solid black;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+#t1{
+  position: relative;
+  text-align: center;
+}
+
+#p1 {
+  width: 90%;
+  height: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top:auto;
+  margin-bottom: auto;
+  color: black;
+  position: relative;
+}
+
